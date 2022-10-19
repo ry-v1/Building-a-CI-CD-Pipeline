@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'p06-flask-sklearn'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A34173B553DF431BBD470AD761A869E8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D6A42F22396C4EEB93331F26CD7E7D91 }}
