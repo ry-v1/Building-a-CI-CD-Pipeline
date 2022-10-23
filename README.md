@@ -1,19 +1,29 @@
 # Overview
 
-<TODO: complete this with an overview of your project>
+This is the repository for the project "Building a CI/CD Pipeline".
+
+In this project, we will use Github Actions along with a Makefile, requirements.txt and application code to perform an initial lint, test, and install. 
+
+Next, we will integrate this project with Azure Pipelines to enable Continuous Delivery to Azure App Service.
 
 ## Project Plan
-<TODO: Project Plan
 
-* A link to a Trello board for the project
-* A link to a spreadsheet that includes the original and final project plan>
+Link for [Trello Board](https://trello.com/b/0YT4Wbt5/project-building-a-ci-cd-pipeline)
+
+Link for [Project Plan](https://docs.google.com/spreadsheets/d/1JOT7QvGd7DIbNfAhEMdOAwIU5KNABhHGUieiYH2yrjw/edit#gid=1348135932)
+
 
 ## Instructions
 
-<TODO:  
-* Architectural Diagram (Shows how key parts of the system work)>
+* Architectural Diagram
 
-<TODO:  Instructions for running the Python project.  How could a user with no context run this project without asking you for any help.  Include screenshots with explicit steps to create that work. Be sure to at least include the following screenshots:
+![image](https://user-images.githubusercontent.com/72290009/184180317-6f9751fd-06b3-4cf1-af51-c6cc1ceb0012.png)
+
+* Project running on Azure App Service
+
+
+* Project cloned into Azure Cloud Shell
+
 
 * Project running on Azure App Service
 
@@ -42,10 +52,8 @@ Port: 443
 
 ## Enhancements
 
-<TODO: A short description of how to improve the project in the future>
+- Adding test case for flask sklearn application
 
 ## Demo 
 
-<TODO: Add link Screencast on YouTube>
-
-
+Link for YouTube
