@@ -19,36 +19,32 @@ Link for [Project Plan](https://docs.google.com/spreadsheets/d/1JOT7QvGd7DIbNfAh
 
 ![image](https://user-images.githubusercontent.com/72290009/184180317-6f9751fd-06b3-4cf1-af51-c6cc1ceb0012.png)
 
-* Project running on Azure App Service
+Steps:
 
+1. Cloing the project into Azure Cloud Shell
 
-* Project cloned into Azure Cloud Shell
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/72290009/197432938-a8d1b1fa-dd92-455a-938e-50d11799ec80.png">
 
+2. Running the `make all` command from the `Makefile`
 
-* Project running on Azure App Service
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/72290009/197433136-01fc781c-c89c-43a7-bc7a-f910e7c19a73.png">
 
-* Project cloned into Azure Cloud Shell
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/72290009/197433184-a10c1049-08c0-4e15-91be-4783d602328b.png">
 
-* Passing tests that are displayed after running the `make all` command from the `Makefile`
+3. Running azure web app
 
-* Output of a test run
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/72290009/197433300-c0d59f5c-a9e7-4ee8-8247-20cbd16e0d8f.png">
 
-* Successful deploy of the project in Azure Pipelines.  [Note the official documentation should be referred to and double checked as you setup CI/CD](https://docs.microsoft.com/en-us/azure/devops/pipelines/ecosystems/python-webapp?view=azure-devops).
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/72290009/197433347-5758ed1a-ea83-48b3-a2bf-390797a8a4e7.png">
 
-* Running Azure App Service from Azure Pipelines automatic deployment
+4. Successful prediction from deployed flask app in Azure Cloud Shell
 
-* Successful prediction from deployed flask app in Azure Cloud Shell.  [Use this file as a template for the deployed prediction](https://github.com/udacity/nd082-Azure-Cloud-DevOps-Starter-Code/blob/master/C2-AgileDevelopmentwithAzure/project/starter_files/flask-sklearn/make_predict_azure_app.sh).
-The output should look similar to this:
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/72290009/197433512-bf933f44-2925-4e06-92e5-302969cead35.png">
 
-```bash
-udacity@Azure:~$ ./make_predict_azure_app.sh
-Port: 443
-{"prediction":[20.35373177134412]}
-```
+5. Output of streamed log files from deployed application
 
-* Output of streamed log files from deployed application
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/72290009/197433639-de760aaa-ce43-4496-ac8e-b86c0075163e.png">
 
-> 
 
 ## Enhancements
 
