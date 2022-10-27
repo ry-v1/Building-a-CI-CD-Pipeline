@@ -1,3 +1,7 @@
+Readme.md
+
+[![Build and deploy Python app to Azure Web App - p06-flask-sklearn](https://github.com/ry-v1/Building-a-CI-CD-Pipeline/actions/workflows/main_p06-flask-sklearn.yml/badge.svg)](https://github.com/ry-v1/Building-a-CI-CD-Pipeline/actions/workflows/main_p06-flask-sklearn.yml)
+
 # Overview
 
 This is the repository for the project "Building a CI/CD Pipeline".
