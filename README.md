@@ -97,6 +97,9 @@ Steps:
 
 <img width="1437" alt="image" src="https://user-images.githubusercontent.com/72290009/197499483-18de347b-e354-4a14-95dc-06831f786ef8.png">
 
+15. Load testing with locust file
+
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/72290009/198256293-530a3106-8c09-41bc-a065-85cae8deef42.png">
 
 ## Enhancements
 
